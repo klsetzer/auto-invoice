@@ -1,0 +1,5 @@
+---
+api_url: 'https://toggl.com/reports/api/v2/weekly'
+api_token: 'laskdjla9saufj23fj209fasljaedg9a'
+workspace_id: '1239841'
+email_address: 'your@email.com'
